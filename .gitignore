@@ -1,5 +1,6 @@
 /*
 !/.gitignore
+!/.readme.md
 # ignore everything but hello-world/src  --- reference: https://stackoverflow.com/a/38433667
 !/ClojureScript_Projects
 /ClojureScript_Projects/*
