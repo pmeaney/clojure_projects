@@ -1,10 +1,25 @@
 /*
 !/.gitignore
 !/readme.md
-# ignore everything but hello-world/src  --- reference: https://stackoverflow.com/a/38433667
+# ignorereference: https://stackoverflow.com/a/38433667
 !/ClojureScript_Projects
 /ClojureScript_Projects/*
+
 !/ClojureScript_Projects/hello-world/
 /ClojureScript_Projects/hello-world/*
 !/ClojureScript_Projects/hello-world/src
 
+!/ClojureScript_Projects/test-app/
+/ClojureScript_Projects/test-app/*
+!/ClojureScript_Projects/test-app/src
+
+!/Clojure_Projects/
+/Clojure_Projects/*
+
+!/Clojure_Projects/clojure-noob/
+/Clojure_Projects/clojure-noob/*
+!/Clojure_Projects/clojure-noob/src/
+# /Clojure_Projects/clojure-noob/src/*
+# !/Clojure_Projects/clojure-noob/src/clojure_noob/
+!/Clojure_Projects/clojure-noob/src/clojure_noob/*
+# /Clojure_Projects/clojure-noob/src/clojure_noob/*
